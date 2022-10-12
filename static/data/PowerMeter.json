@@ -1,0 +1,23 @@
+{
+	"MainLoop01" : {
+		"access_token": "WImETF1BotX8l1xIkZ3K",
+        "app": "ems_demo_fet",
+        "type": "METER",
+        "data":[{"values": {
+			"voltage": "22",
+			"current_r": "50",
+            "current_s": "380",
+            "current_t": "300",
+            "power": "20",
+            "pf": "20",
+            "energy": "20",
+            "temperature_r": "20",
+            "temperature_s": "23",
+            "temperature_t": "25",
+            "demand": "20",
+            "alive": "20",
+			"remark": "20"
+			}
+		}]
+	}
+}
